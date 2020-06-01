@@ -7,3 +7,11 @@ D:\Ciaran\Desktop\Ode to Food\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\
 D:\Ciaran\Desktop\Ode to Food\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
 D:\Ciaran\Desktop\Ode to Food\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
 D:\Ciaran\Desktop\Ode to Food\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Users\14550\Desktop\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.deps.json
+C:\Users\14550\Desktop\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Users\14550\Desktop\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Users\14550\Desktop\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\14550\Desktop\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\14550\Desktop\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\14550\Desktop\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Users\14550\Desktop\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
